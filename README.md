@@ -3,7 +3,7 @@
 This repository contains both frontend (React) and backend (NestJS) applications.
 
 ## Preview
-![Application Preview](./preview.gif)
+![Application Preview](https://github.com/smhammadshakil/mind-sight/blob/main/preview.gif)
 
 ## Project Structure
 
