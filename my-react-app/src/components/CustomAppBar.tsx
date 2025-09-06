@@ -43,7 +43,7 @@ function CustomAppBar() {
         background: 'linear-gradient(135deg, #1d4d75 0%, #117864 100%)',
         position: 'sticky',
         top: 0,
-        zIndex: (theme) => theme.zIndex.drawer + 1,
+        zIndex: (theme) => theme.zIndex.drawer - 1,
       }}
       position="static"
     >
