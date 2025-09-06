@@ -2,6 +2,9 @@
 
 This repository contains both frontend (React) and backend (NestJS) applications.
 
+## Preview
+![Application Preview](./preview.gif)
+
 ## Project Structure
 
 ```
